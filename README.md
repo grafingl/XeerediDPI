@@ -22,7 +22,7 @@
 
 ### Требуется цифровая подпись драйвера WinDivert (Windows 7)
 
-- Замените файлы `WinDivert.dll` и `WinDivert64.sys` в папке [`bin`](./bin) на одноименные из [zapret-win-bundle/win7](https://github.com/bol-van/zapret-win-bundle/tree/master/win7)
+- Замените файлы `WinDivert.dll` и `WinDivert64.sys` в папке [`tools`](./tools) на одноименные из [zapret-win-bundle/win7](https://github.com/bol-van/zapret-win-bundle/tree/master/win7)
 
 ### Не работает вместе с VPN
 
