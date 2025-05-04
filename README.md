@@ -21,9 +21,9 @@
 
 ## ℹ️Краткие описания файлов
 
-- **1. Установить (Дефолт).bat** по **13. Установить (Другой 10).bat** - создание и запуск службы XeerediDPI для обхода блокировок <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord и <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=12 /> YouTube
+- [**`1. Установить (Дефолт).7z`**](..7z) по [**`99999. Установить (Другой 10).bat`**](./https://github.com/grafingl/XeerediDPI/blob/main/99999.%20%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%20(%D0%94%D1%80%D1%83%D0%B3%D0%BE%D0%B9%2010).bat.7z) - создание и запуск службы XeerediDPI для обхода блокировок
 
-- **2. Удалить.bat** - удаление службы и его процессов
+- [**`Удалить.bat`**](./Удалить.bat) - удаление службы и его процессов
 
 > [!IMPORTANT]
 > **Стратегии блокировок со временем изменяются.**
@@ -43,4 +43,4 @@
 
 ## ⚖️Лицензирование
 
-Проект распространяется на условиях лицензии [MIT](https://github.com/Flowseal/zapret-discord-youtube/blob/main/LICENSE.txt)
+Проект распространяется на условиях лицензии [MIT](https://github.com/grafingl/XeerediDPI/blob/main/LICENSE.txt)
