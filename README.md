@@ -1,10 +1,14 @@
 <div align="center">
 
 
-*"Plug & Play"* обход блокировок <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord и <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=15 /> YouTube для Windows
+*"Plug & Play"* ***Быстрое*** создание ***службы*** для обхода блокировок <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord и <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=15 /> YouTube для Windows </div>
 
-Альтернатива https://github.com/Flowseal/zapret-discord-youtube
+<div align="center">
+
+https://github.com/Goah5/zapret-discord-youtube-eve
 </div>
+<div align="center">
+https://github.com/Flowseal/zapret-discord-youtube
 
 ## ⚙️Использование
 
