@@ -6,8 +6,6 @@
 Альтернатива https://github.com/Flowseal/zapret-discord-youtube
 </div>
 
-> **Выдержка из [`readme.md`](https://github.com/bol-van/zapret-win-bundle/blob/master/readme.md#%D0%B0%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%8B) репозитория [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle)*
-
 ## ⚙️Использование
 
 1. Загрузите архив (7z) со [страницы последнего релиза](https://github.com/grafingl/XeerediDPI/releases/latest)
@@ -18,9 +16,9 @@
 
 ## ℹ️Краткие описания файлов
 
-- [**`1. Установить (Дефолт).7z`**] - создание и запуск службы XeerediDPI для обхода блокировок
+- **`1. Установить (Дефолт).bat`** до **`13. Установить (Другой 10).bat`** - создание и запуск службы XeerediDPI для обхода блокировок
 
-- [**`Удалить.bat`**](./Удалить.bat) - удаление службы и его процессов
+- **`Удалить.bat`** - удаление службы и его процессов
 
 ### Требуется цифровая подпись драйвера WinDivert (Windows 7)
 
