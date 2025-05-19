@@ -5,10 +5,10 @@
 
 <div align="center">
 
-https://github.com/Goah5/zapret-discord-youtube-eve
+https://github.com/Flowseal/zapret-discord-youtube
 </div>
 <div align="center">
-https://github.com/Flowseal/zapret-discord-youtube
+https://github.com/pumPCin/AntiZapret
 </div>
 
 ## ⚙️Использование
