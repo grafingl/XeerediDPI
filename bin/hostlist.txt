@@ -157,7 +157,9 @@ rutracker.org
 safeframe.googlesyndication.com
 shared.akamai.steamstatic.com
 shared.cloudflare.steamstatic.com
+soundcloud.cloud
 soundcloud.com
+sndcdn.com
 stable.dl2.discordapp.net
 stackpath.bootstrapcdn.com
 static.doubleclick.net
@@ -189,4 +191,5 @@ yummy-anime.ru
 yummyani.me
 static.ads-twitter.com
 grok.x.com
+maven.neoforged.net
 mobile.twitter.com

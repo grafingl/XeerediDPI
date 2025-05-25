@@ -111381,6 +111381,7 @@ mavimel.ru
 mavininvestexchange.com
 mavink.com
 mavlar.ru
+maven.neoforged.net
 mavnicenter.com
 mavoreu0.pro
 mavrick.ru
@@ -170878,7 +170879,9 @@ soundart-shop.ru
 soundbass.net
 soundbaza.net
 soundchopstudio.ru
+soundcloud.cloud
 soundcloud.com
+sndcdn.com
 soundextraction.ru
 soundfor.ru
 soundforlife.ru
