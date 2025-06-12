@@ -33,7 +33,6 @@ mullvad.net
 ntc.party
 pbs.twimg.com
 ufouxbwn.com
-video.akamai.steamstatic.com
 video-ik-ok-ii.xyz
 video.twimg.com
 vidoomy.com
@@ -57,13 +56,11 @@ abs.twimg.com
 abs-0.twimg.com
 ad.doubleclick.net
 adservice.google.com
-akamai.steamstatic.com
 amazon.com
 aniboom.one
 animego.org
 api-v2.soundcloud.com
 api.mod.io
-api.steampowered.com
 api.twitch.tv
 api.x.com
 api.twitter.com
@@ -73,7 +70,6 @@ bbc.com
 betterttv.net
 boom-img.com
 bootstrapcdn.com
-cdn.akamai.steamstatic.com
 cdn.battleye.com
 cdn.betterttv.net
 cdn.discordapp.com
@@ -81,17 +77,13 @@ cdn.frankerfacez.com
 cdn.hsmedia.ru
 cdn.vigo.one
 cdninstagram.com
-clan.akamai.steamstatic.com
 clients6.google.com
 cloud.kodik-storage.com
 cloudflare-ech.com
 cloudflare.com
-cloudflare.steamstatic.com
 cm.mgid.com
 code.jquery.com
-community.akamai.steamstatic.com
 dev.twitch.tv
-developer.valvesoftware.com
 discord-activities.com
 discord-attachments-uploads-prd.storage.googleapis.com
 discord.com
@@ -125,7 +117,6 @@ googleapis.com
 googlesyndication.com
 googletagmanager.com
 googleusercontent.com
-help.steampowered.com
 help.twitch.tv
 holod.media
 imagedelivery.net
@@ -154,8 +145,6 @@ ru.wikipedia.org
 rutracker.cc
 rutracker.org
 safeframe.googlesyndication.com
-shared.akamai.steamstatic.com
-shared.cloudflare.steamstatic.com
 soundcloud.cloud
 soundcloud.com
 sndcdn.com
@@ -163,11 +152,6 @@ stable.dl2.discordapp.net
 stackpath.bootstrapcdn.com
 static.doubleclick.net
 stats.g.doubleclick.net
-steamcommunity.com
-steamstatic.com
-store.akamai.steamstatic.com
-store.steampowered.com
-support.steampowered.com
 support.twitter.com
 syndication.twitter.com
 tenor.com
