@@ -69,7 +69,6 @@ api.x.com
 api.twitter.com
 api.tweetdeck.com
 archive.org
-avatars.akamai.steamstatic.com
 bbc.com
 betterttv.net
 boom-img.com
