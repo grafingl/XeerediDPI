@@ -5,6 +5,10 @@
 
 <div align="center">
 
+https://github.com/fallonightcorp/zapret-aws-cloudflare
+</div>
+<div align="center">
+  
 https://github.com/Flowseal/zapret-discord-youtube
 </div>
 <div align="center">
@@ -21,7 +25,7 @@ https://github.com/pumPCin/AntiZapret
 
 ## ℹ️Краткое описание файлов
 
-- **`1. Установить (Дефолт).bat`** до **`14. Установить (Другой 11).bat`** - создание и запуск службы XeerediDPI для обхода блокировок
+- **`1. Установить (Дефолт).bat`** до **`15. Установить (Другой 12).bat`** - создание и запуск службы XeerediDPI для обхода блокировок
 
 - **`Удалить.bat`** - удаление службы и его процессов
 
