@@ -48,7 +48,6 @@ ffzap.com
 flaticon.com
 frankerfacez.com
 gateway.discord.gg
-ggpht.com
 grok.x.com
 gvt1.com
 holod.media
@@ -107,6 +106,7 @@ yummy-anime.ru
 yummyani.me
 yt3.ggpht.com
 yt4.ggpht.com
+yt3.googleusercontent.com
 abs-0.twimg.com
 adservice.google.com
 api-v2.soundcloud.com
