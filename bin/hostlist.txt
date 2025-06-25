@@ -27,6 +27,7 @@ aniboom.one
 animego.org
 api.mod.io
 api.x.com
+b-cdn.net
 bootstrapcdn.com
 cdn.battleye.com
 cdn.betterttv.net
