@@ -145,12 +145,14 @@ discordstatus.com
 doubleclick.net
 en.wikipedia.org
 fonts.googleapis.com
+google.ru
 googleads.g.doubleclick.net
 googleadservices.com
 googleapis.com
 googlesyndication.com
 googletagmanager.com
 googleusercontent.com
+gstatic.com
 img.yani.tv
 instagram.com
 kodik-storage.com
