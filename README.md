@@ -1,7 +1,7 @@
 <div align="center">
 
 
-*"Plug & Play"* ***Быстрое*** создание ***службы*** для обхода блокировок <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord и <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=15 /> YouTube для Windows </div>
+*"Plug & Play"* ***Быстрое*** создание ***службы*** для обхода блокировок <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord и <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=15 /> YouTube для <img src="https://cdn-icons-png.flaticon.com/512/14047/14047075.png" height=15 /> Windows </div>
 
 <div align="center">
 
