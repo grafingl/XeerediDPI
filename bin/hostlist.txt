@@ -35,6 +35,7 @@ cloudflareok.com
 discordmerch.com
 cloudflareapps.com
 cloudflare-dns.com
+cloudflare-ipfs.com
 cloudflaressl.com
 cloudflaretest.com
 cloudflarewarp.com
