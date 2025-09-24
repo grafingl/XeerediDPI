@@ -67,6 +67,7 @@ cloudflare-gateway.com
 youtube-ui.l.google.com
 engage.cloudflareclient.com
 wide-youtube.l.google.com
+skinsystem.ely.by
 stable.dl2.discordapp.net
 yt-video-upload.l.google.com
 youtubeembeddedplayer.googleapis.com
